@@ -4,8 +4,7 @@ require('./PropertyCostant.php');
 
 use Pbo\Marketplace\Produk;
 
-
-// //object
+//object
 $produk = new Produk();
 
 $produk ->setKode('P0001')
